@@ -11,10 +11,6 @@
 - HTML
 - CSS
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
 ## Authors
 
 👤 **Mirouhml**
