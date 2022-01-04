@@ -4,7 +4,7 @@
 
 > This is the first project of Microverse
 
-![screenshot](./app_screenshot.png)
+![screenshot](./home_page.png)
 
 ## Built With
 
